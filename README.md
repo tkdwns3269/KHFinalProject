@@ -41,7 +41,7 @@
 | 조동근 | 조장/이슈관리자 |  |
 | 윤대한 | 형상관리자 |  |
 | 박상준 | 일정관리자 |  |
-| 김동영 | DB관리자 |  |
+| 김동영 | DB관리자 | https://github.com/Kim-dong-young |
 
 views -> common, community, info, study, -> jsp파일 <br>
 static -> common, community, info, study, -> css, js -> 파일
