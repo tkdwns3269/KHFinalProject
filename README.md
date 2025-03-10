@@ -6,7 +6,8 @@
   - [🔸 커뮤니티](#2-커뮤니티)
   - [🔸 스터디룸](#3-스터디룸)
   - [🔸 개인페이지](#4-개인페이지)
-  - [🔸 기타 편의기능](#5-기타-편의기능)
+  - [🔸 관리자페이지](#5-관리자페이지)
+  - [🔸 기타 편의기능](#6-기타-편의기능)
 - [🎯 UI설계 및 기능 구현 화면](#ui설계-및-기능-구현-화면)
   - [⭐ 메인화면](#메인화면)
   - [⭐ 자격증 검색 및 자료실](#자격증-검색-및-자료실)
@@ -15,6 +16,7 @@
   - [⭐ 스터디그룹 화면](#스터디그룹-화면)
   - [⭐ 메시지 화면](#메시지-화면)
   - [⭐ 관리자 페이지](#관리자-페이지)
+  - [⭐ 편의기능](#편의기능)
 - [📚 TOOL](#tool)
 - [👥 팀원 소개](#팀원-소개)
 
@@ -22,7 +24,8 @@
 ![사이트 로고 - 큰화면](https://github.com/user-attachments/assets/91fdd678-fcb0-4dfd-8c36-026f9b2a43ee)
 
 <div style="margin-bottom:30px;">
-📌 다양한 자격증 정보를 제공하는 사이트 <br>
+📌 다양한 IT 자격증 정보를 제공하는 사이트 <br>
+   📑 ex) 정보처리기사, SQLD 등 <br>
 📌 직관적인 UI로 사용자가 이용하기 편하다 <br>
 📌 검색, 자격증 정보 제공으로 정보 찾기에 유용하다 <br>
 📌 멘토-멘티,스터디 등으로 자격증 공부를 좀 더 쉽게 가능하다 <br>
@@ -36,27 +39,55 @@
 <br><br>
 
 ### ⭐주요기능
-## 🔸1. 자격증 정보
-> 자격증 검색 <br>
-> 자료실
-> > 시험장 검색 <br>
-> > 날씨 <br>
-> > 시험정보
-## 🔸2. 커뮤니티
-> 자유게시판 <br>
-> 자격증 게시판 <br>
-> 공지사항
-## 🔸3. 스터디룸
-> 멘토찾기 <br>
-> 스터디그룹 게시판
-## 🔸4. 개인페이지
->개인 프로필 <br>
->자격증 인증 <br>
->일정 생성
-## 🔸5. 기타 편의기능
-> 챗봇 <br>
-> 컴파일러
+<br>
 
+## 🔸1. 자격증 정보
+- 📘 자격증 검색
+  - 자격증 검색 
+  - 자격증 정보 열람 가능
+- 📂 자료실  
+  - 🏫 시험장 검색
+    - API를 이용하여 지역에 따른 시험장 검색
+  - ☀️ 날씨
+    - API를 이용하여 지역에 따른 단기, 중기일보를 탐색
+  - 📑 시험정보
+    - 응시자격과 시험일정 탐색
+
+## 🔸2. 커뮤니티
+- 💬 자유게시판
+  - 자유로운 글과 질문 가능
+- 📝 자격증 게시판
+  - 자격증마다 세분화하여 정보 교류를 명확하게 함 
+- 📢 공지사항
+  - 자격증 관련 변경사항과 그 외 정보들을 작성
+
+## 🔸3. 스터디룸
+- 🧑‍🏫 멘토찾기
+  - 관리자에게 인증된 멘토들을 탐색하여 멘토-멘티 신청
+- 👥 스터디그룹 게시판
+  - 스터디그룹 멤버를 모집하거나 스터디그룹 신청
+
+## 🔸4. 개인페이지
+- 🧑‍💼 개인 프로필
+  - 자신이 가지고있는 자격증 인증가능
+  - 프로필사진과 이름 및 개인정보 변경
+  - 자신이 속한 멘토-멘티 또는 스터디그룹 열람
+- 🏅 자격증 인증
+  - 관리자에게 자격증 합격 사진을 보내 인증
+- 🗓️ 일정 생성
+  - 캘린더에 자신의 일정 등록가능
+
+## 🔸5. 관리자 페이지
+- ⚙️ 관리자 권한
+  - 자격증 인증
+  - 커뮤니티 게시글 관리
+  - 홍보 게시글 관리
+  - 신고 목록
+  - 유저 관리
+
+## 🔸6. 기타 편의기능
+- 🤖 챗봇
+- 💻 컴파일러
 <br>
 
 ## 🎯UI설계 및 기능 구현 화면 <br>
@@ -76,24 +107,28 @@
 <br>
 
 ### ⭐멘토멘티 화면
-<img src="https://github.com/user-attachments/assets/5968d79a-d0b8-4064-a87f-1b839bdcd0ae"/>
+<img src="https://github.com/user-attachments/assets/db1ab622-8cd0-44a1-b2dd-50f3bc608d8c"/>
 <br>
 
+
 ### ⭐스터디그룹 화면
-<img src="https://github.com/user-attachments/assets/c2d4aea4-c63e-4e47-9b2d-b3ffacde3ac1"/>
-<img src="https://github.com/user-attachments/assets/53c1e1d2-bf94-47c6-8cf8-efa93439fb57"/>
+<img src="https://github.com/user-attachments/assets/fd5639b1-2a68-46a7-8ef4-9acdcfeffa75"/>
+<img src="https://github.com/user-attachments/assets/37c2ba9d-3191-42a1-a941-249abe2fb469"/>
 <br>
 
 ### ⭐메시지 화면
-<img src="https://github.com/user-attachments/assets/8b7d053c-4578-4cac-923d-cee4ee02ae41"/>
+<img src="https://github.com/user-attachments/assets/ec2ab841-f15d-42d6-b76c-e56267258acb"/>
 <br>
 
 ### ⭐관리자 페이지
-<img src="https://github.com/user-attachments/assets/5a188612-36ab-4be0-ab85-471e633c307e"/>
+<img src="https://github.com/user-attachments/assets/38844710-0056-401e-b7e3-f88e08a83679"/>
 <br>
 
-### ⭐관리자 페이지
-<img src="https://github.com/user-attachments/assets/05813276-7ff1-41ba-b976-e7fdbf8e238b"/>
+### ⭐편의기능
+<img src="https://github.com/user-attachments/assets/07ef7613-208d-4dbf-807c-43e59db03d8b"/>
+<br>
+
+<img src="https://github.com/user-attachments/assets/796cdabf-b5b7-4841-873d-b42f1c997541"/>
 <br>
 
 <div align=center><h1>📚TOOL </h1></div>
