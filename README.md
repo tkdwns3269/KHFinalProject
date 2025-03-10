@@ -62,36 +62,38 @@
 ## 🎯UI설계 및 기능 구현 화면 <br>
 
 ### ⭐메인화면
-<img src="https://github.com/user-attachments/assets/9e879b25-6d43-492d-a66e-4da469e44535" width="800"/>
-<img src="https://github.com/user-attachments/assets/9e45e777-1980-44b1-bd4b-db57dd4de182" width="800"/>
+<img src="https://github.com/user-attachments/assets/715e2a2d-68f2-454b-80f9-959ab7ac54de"/>
+<img src="https://github.com/user-attachments/assets/70035eba-e764-485e-a619-b236530e415e"/>
+
+
 
 ### ⭐자격증 검색 및 자료실
-<img src="https://github.com/user-attachments/assets/b579fafb-9cb4-4487-8da5-7e4e8b1015e0" width="800"/>
+<img src="https://github.com/user-attachments/assets/45a75600-a9ab-4c67-9e56-dd968ef8dc56"/>
 <br>
 
 ### ⭐커뮤니티 화면
-<img src="https://github.com/user-attachments/assets/538660fc-bb0c-4529-8642-6c2a81493d16" width="800"/>
+<img src="https://github.com/user-attachments/assets/eac0a79b-e280-43f4-8da1-a9e268ae7f35"/>
 <br>
 
 ### ⭐멘토멘티 화면
-<img src="https://github.com/user-attachments/assets/5968d79a-d0b8-4064-a87f-1b839bdcd0ae" width="800"/>
+<img src="https://github.com/user-attachments/assets/5968d79a-d0b8-4064-a87f-1b839bdcd0ae"/>
 <br>
 
 ### ⭐스터디그룹 화면
-<img src="https://github.com/user-attachments/assets/c2d4aea4-c63e-4e47-9b2d-b3ffacde3ac1" width="800"/>
-<img src="https://github.com/user-attachments/assets/53c1e1d2-bf94-47c6-8cf8-efa93439fb57" width="800"/>
+<img src="https://github.com/user-attachments/assets/c2d4aea4-c63e-4e47-9b2d-b3ffacde3ac1"/>
+<img src="https://github.com/user-attachments/assets/53c1e1d2-bf94-47c6-8cf8-efa93439fb57"/>
 <br>
 
 ### ⭐메시지 화면
-<img src="https://github.com/user-attachments/assets/8b7d053c-4578-4cac-923d-cee4ee02ae41" width="800"/>
+<img src="https://github.com/user-attachments/assets/8b7d053c-4578-4cac-923d-cee4ee02ae41"/>
 <br>
 
 ### ⭐관리자 페이지
-<img src="https://github.com/user-attachments/assets/5a188612-36ab-4be0-ab85-471e633c307e" width="800"/>
+<img src="https://github.com/user-attachments/assets/5a188612-36ab-4be0-ab85-471e633c307e"/>
 <br>
 
 ### ⭐관리자 페이지
-<img src="https://github.com/user-attachments/assets/05813276-7ff1-41ba-b976-e7fdbf8e238b" width="800"/>
+<img src="https://github.com/user-attachments/assets/05813276-7ff1-41ba-b976-e7fdbf8e238b"/>
 <br>
 
 <div align=center><h1>📚TOOL </h1></div>
